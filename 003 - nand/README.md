@@ -1,2 +1,3 @@
-# breadboard.logic-gates
-digital logic gates using transistors - a switch, inverter, buffer, AND gates, NAND gate, OR gates, NOR gate, XOR gates, and an XNOR gate.
+# NAND
+
+![nand](https://github.com/BorisKlco/breadboard.logic-gates/assets/122160506/c4bed311-9a81-4d49-901e-2810ac9f4bca)
