@@ -7,5 +7,6 @@ https://github.com/BorisKlco/breadboard.logic-gates/assets/122160506/822f8522-cd
 https://github.com/BorisKlco/breadboard.logic-gates/assets/122160506/857f2161-6f33-444d-839c-f7c713e810dc
 ## Bistable
 https://github.com/BorisKlco/breadboard.logic-gates/assets/122160506/83aa1fa5-a388-4ab2-b06e-be6f089ddae4
-
+## Breathing effect
+https://github.com/BorisKlco/breadboard.logic-gates/assets/122160506/67fc357d-7f66-489a-a258-bbb89bbff6be
 
