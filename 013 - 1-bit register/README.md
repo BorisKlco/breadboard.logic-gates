@@ -1,3 +1,6 @@
-# Astable Multivibrator
-https://github.com/BorisKlco/breadboard.logic-gates/assets/122160506/4a8d055d-ad14-4cb0-be6a-18e3abdfab04
+# 1bit register
+
+https://github.com/BorisKlco/breadboard.logic-gates/assets/122160506/53ab8ec0-feca-4868-a878-d0b44ebce95b
+
+
 
